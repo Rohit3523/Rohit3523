@@ -1,6 +1,6 @@
 # Welcome to my Github!
 
-👋 Hello, I am Rohit Bansal. I am a Javascript developer. I love developing Discord bots and websites.
+👋 Hello, I am Rohit Bansal. I am a Javascript developer. I love developing Discord bots and mobile applications.
 
 🔗 Discord : [Rohit#3523](https://discord.com/users/634801931000217610)
 
