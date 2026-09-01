@@ -1,6 +1,6 @@
 # Welcome to my Github!
 
-👋 Hello, I am Rohit Bansal. I am a Javascript developer. I love developing Discord bots and mobile applications.
+👋 Hello, I am Rohit Bansal. I am a Javascript developer. I love developing mobile applications.
 
 🔗 Discord : [rohitbansal](https://discord.com/users/634801931000217610)
 
@@ -8,10 +8,10 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/634801931000217610?animated=true)](https://discord.com/users/634801931000217610)
 
 ## My GitHub Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=Rohit3523&count_private=true&show_icons=true&theme=nightowl)](https://github.com/Rohit3523)
+[![Stats](https://github-readme-stats-fast.vercel.app/api?username=Rohit3523&count_private=true&show_icons=true&theme=nightowl)](https://github.com/Rohit3523)
 
 ## Languages Used in my Projects
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit3523&layout=compact)](https://github.com/Rohit3523)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Rohit3523&show_icons=true&theme=nightowl)](https://github.com/Rohit3523)
 
 ## Things I know/use
 ### Databases
