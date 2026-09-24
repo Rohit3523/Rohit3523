@@ -3,7 +3,9 @@
 👋 Hello, I am Rohit Bansal. I am a Javascript developer. I love developing mobile applications.
 
 🔗 Discord : [rohitbansal](https://discord.com/users/634801931000217610)
+
 🔗 X : [Rohit3523](https://x.com/Rohit3523)
+
 🔗 Rocket.Chat : [rohit.bansal](https://open.rocket.chat/direct/rohit.bansal) & [rohitbansal](https://open.rocket.chat/direct/rohitbansal)
 
 ## Discord
